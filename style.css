@@ -1,0 +1,30 @@
+body{
+    background-color: gainsboro;
+}
+h1{
+    background-color: skyblue;
+    color: black;
+}
+h2{
+    color: red;
+}
+#img2:hover{
+    border: 15px solid red;
+}
+#img1:hover{
+    border: 15px solid black;
+}
+.head{
+    margin-left: 400px;
+    display: flex;
+    column-gap: 323px;
+}
+button{
+    margin-left: 690px;
+    margin-top: 40px;
+}
+button:hover{
+    color: white;
+    background-color: red;
+}
+
